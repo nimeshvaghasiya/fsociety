@@ -1,7 +1,3 @@
-# Donate
-- Bitcoin  = 3N8i3Xpi15E11M2zPUm5kPhGjnPSLXcWFt
-- Ethereum = 0xa891e54169182a93cacba41288d16aaffa537503
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Manisso/fsociety/blob/master/LICENSE) ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20OSX%20|%20Windows%20|%20Android-yellowgreen.svg?style=flat-square) [![Python2.7](https://img.shields.io/badge/Python-2.7-green.svg?style=flat-square)](https://www.python.org/downloads/release/python-2714/) [![Python3](https://img.shields.io/badge/Python-3-green.svg?style=flat-square)](https://github.com/Manisso/fsociety/tree/python3) ![Docker](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square)
 
 # Fsociety Hacking Tools Pack
@@ -53,7 +49,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 - ATSCAN
 - sqlmap
 - Shellnoob
-- commix
+- Commix
 - FTP Auto Bypass
 - JBoss Autopwn
 
@@ -90,7 +86,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 - Get server users
 - SQli Scanner
 - Ports Scan (range of ports)
-- ports Scan (common ports)
+- Ports Scan (common ports)
 - Get server Info
 - Bypass Cloudflare
 
@@ -176,4 +172,8 @@ docker-compose down # destroys instance
 
 # Join the team 
  Do you want to collaborate? Join the project at https://crowdforge.io/projects/409
+ 
+ # Donate
+- Bitcoin  = 3N8i3Xpi15E11M2zPUm5kPhGjnPSLXcWFt
+- Ethereum = 0xa891e54169182a93cacba41288d16aaffa537503
 
